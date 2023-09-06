@@ -16,6 +16,8 @@ GitHub limits the number of people who can be invited to a repository within a 2
 
 GitHub limits the number of people who can be invited to a repository within a 24-hour period. If you exceed this limit, either wait 24 hours or create an organization to collaborate with more people. For more information, see "Creating a new organization from scratch."
 
+You can find the project application [here](https://kalaite-p.github.io/SelfCareCenter_finder/).
+
 ## AUTHORS
 
 Various people participated in the designing and writing of this project. They are:
