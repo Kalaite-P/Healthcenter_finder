@@ -36,3 +36,140 @@
     background-position: bottom;
     background-size: cover;
 }
+/* tygfuh */
+
+/* Start of section Three */
+.sectionthree{
+    height: 120vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #FAF7F7;
+    position: relative;
+}
+.sectionthree .form{
+    height: 200px;
+    width: 550px;
+    padding: 20px;
+    background: linear-gradient(90deg, rgb(10, 10, 206), rgb(243, 5, 243)
+    );
+    border-radius: 10px;
+    margin-bottom: 20px;
+    box-shadow: 0 0 10px gray;
+}
+.form label{
+    color: white;
+    font-weight: 700;
+    margin-right: 10px;
+}
+.toprated{
+    height: 35%;
+    width: 80%;
+    margin-top: 15px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+.toprated .img1{
+    height: 100%;
+    width:24%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    border-radius: 15px;
+}
+.toprated .img2{
+    height: 100%;
+    width: 24%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    border-radius: 15px;
+}
+.toprated .img3{
+    height: 100%;
+    width: 24%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    border-radius: 15px;
+}
+.toprated .img4{
+    height: 100%;
+    width: 24%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    border-radius: 15px;
+}
+.toprated img{
+    height: 200px;
+    width: 250px;
+    margin-bottom: 10px;
+}
+.sectionthree h1{
+    color: blue;
+    font-size: 32px;
+    margin-bottom: 20px;
+    position: absolute;
+    top: 5%;
+}
+.sectionthree h2{
+    color: red;
+    position: absolute;
+    top: 10%;
+}
+.sectionthree .Location{
+    color: black;
+    position: absolute;
+    top: 14%;
+}
+.sectionthree input{
+    margin-bottom: 15px;
+    height: 20px;
+    width: 350px;
+}
+.sectionthree .last{
+    border: solid 2px blue;
+    padding: 10px 10px;
+    cursor: pointer;
+    border-radius: 25px;
+    color: blue;
+    background-color: transparent;
+    position: absolute;
+    bottom: 7%;
+}
+.sectionthree button{
+    border: solid 2px white;
+    padding: 7px 30px;
+    cursor: pointer;
+    border-radius: 15px;
+    color: white;
+    background-color: transparent;
+}
+.sectionthree span{
+    color: blue;
+    font-size: 14px;
+    font-weight: 600;
+}
+.sectionthree a{
+    text-decoration: none;
+    padding: 10px 15px;
+    background-color: blue;
+    color: white;
+    cursor: pointer;
+    margin-top: 10px;
+    font-weight: 600;
+}
+/* End Of section three */
