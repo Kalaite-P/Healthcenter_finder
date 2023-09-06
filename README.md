@@ -6,8 +6,10 @@ We all love to stay healthy and we hate getting sick🤢, but that's not always 
 we need treatment🩺 sometimes it is very urgent to be treated immeadiately. And in this modern world we rely on medicine💊💊 and treatment
 offered🔬💉 to get well and go back to our regular health😁.
 
-In this project we get to experience having a finder / locator on various health centres🏟 in our machines (Phones / Laptops
- / computers). It provides information about the health centers near you for immeadiate treatment and medical issues or problems.
+In this project we get to experience having a finder / locator↕ ↔📌 on various health centres🏟 in our machines (Phones / Laptops
+ / computers). It also provides information about professionals to help deal with stress and other challenges both mentally💆‍♂️💆‍♀️ and physically👩‍🦽👨‍🦯.
+ It provides information about the health centers near you for immediate treatment and medical issues or problems🌡. This will assit people when new to a certain area
+ or there are new health centres established thus creating health awareness🙋‍♂️🙋‍♀️ among people👨‍👩‍👧‍👦 and their location📍📍.
  
  You can find the project application [here](https://kalaite-p.github.io/SelfCareCenter_finder/).
 
