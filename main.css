@@ -582,4 +582,117 @@
 }
 /* End Of Section Six */
 
+/* End Of Section Seven */
+.sectionseven{
+    height: 50vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #236CC1;
+}
+.sectionseven .footer{
+    height: 100%;
+    width: 70%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    position: relative;
+    justify-content: space-between;
+    /* background-color: white; */
+}
+.footer .left{
+    height: 100%;
+    width: 20%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    /* align-items: center; */
+    /* background-color: aqua; */
+}
+.left a{
+    line-height: 1.5;
+    text-decoration: none;
+    color: #03FDC1;
+}
+.footer h4{
+    color: white;
+    margin-bottom: 20px;
+}
+.footer .center{
+    height: 100%;
+    width: 40%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    color: white;
+    /* background-color: aquamarine; */
+}
+.center .icons img{
+    height: 50px;
+    margin-left: 10px;
+}
+.center .icons{
+    position: absolute;
+    top: 33%;
+}
+.center .contacts{
+    position: absolute;
+    bottom: 23%;
+}
+.footer h4{
+    position: absolute;
+    top: 22%;
+}
+.footer .right{
+    height: 100%;
+    width: 40%;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    /* background-color: yellowgreen; */
+}
+.right .input{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: center;
+    
+}
+.input h4{
+    letter-spacing: 1px;
+}
+.input input{
+    height: 25px;
+    position: absolute;
+    top: 33%;
+    border: none;
+    width: 20%;
+}
+.input button{
+    padding: 8px 15px;
+    border: solid 2px white;
+    color: white;
+    background-color: transparent;
+    border-radius: 25px;
+}
+.sectionseven .secpart{
+    height: 20%;
+    width: 100%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #0564F3;
+    font-family: monospace;
+    font-size: 15px;
+    letter-spacing: 1.5px;
+    box-shadow: 0 0 5px #000;
+}
+/* End Of section Seven */
+
 
