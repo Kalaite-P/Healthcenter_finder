@@ -1,0 +1,38 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.sectionone{
+    height: 100vh;
+    width: 100%;
+}
+.sectionone .navigation{
+    height: 20%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: blue;
+}
+.navigation .mainsection{
+    height: 100%;
+    width: 80%;
+}
+.navigation .navlinks{
+    height: 30%;
+    width: 100%;
+    color: blue;
+    font-weight: bold;
+}
+.banner{
+    height: 80%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    background-image: url(../Images/pexels-tara-winstead-7722657.jpg);
+    background-position: bottom;
+    background-size: cover;
+}
