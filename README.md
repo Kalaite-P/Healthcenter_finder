@@ -16,14 +16,22 @@ GitHub limits the number of people who can be invited to a repository within a 2
 
 GitHub limits the number of people who can be invited to a repository within a 24-hour period. If you exceed this limit, either wait 24 hours or create an organization to collaborate with more people. For more information, see "Creating a new organization from scratch."
 
-## Tools
+## /*AUTHORS*/
+
+Various people participated in the designing and writing of this project. They are:
+1. DANIEL
+2. PENINAH
+3. ERICK
+4. MIGUEL
+
+### Tools
 
 The following we're used to create the project:
 
 1. HTML5
 2. CSS3
 
-   ### Pre requisites
+   #### Pre requisites
 
 In order to run this project you require:
 1. Linux / Windows / Macos
