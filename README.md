@@ -1,12 +1,12 @@
-# SELFCARECENTER👨‍⚕️👩‍⚕️
+# SELF CARE👨‍⚕️👩‍⚕️
 
-WE CARE! FOR YOUR HEALTH IS OUR CONCERN.
+WE CARE! FOR YOUR HEALTH IS OUR CONCERN🧬🥼.
 
-We all love to stay healthy and we hate getting sick, but that's not always an option, we end up getting sick out of no-where and 
-we need treatment sometimes it is very urgent to be treated immeadiately. And in this modern world we rely on medicine and treatment
-offered to get well and go back to our regular health.
+We all love to stay healthy and we hate getting sick🤢, but that's not always an option, we end up getting sick🤧 out of no-where and 
+we need treatment🩺 sometimes it is very urgent to be treated immeadiately. And in this modern world we rely on medicine💊💊 and treatment
+offered🔬💉 to get well and go back to our regular health😁.
 
-In this project we get to experience having a finder on various health centres in our machines (Phones / Laptops
+In this project we get to experience having a finder / locator on various health centres🏟 in our machines (Phones / Laptops
  / computers). It provides information about the health centers near you for immeadiate treatment and medical issues or problems.
  
  You can find the project application [here](https://kalaite-p.github.io/SelfCareCenter_finder/).
