@@ -39,7 +39,7 @@
 /* tygfuh */
 
 .sectiontwo{
-    height: 70vh;
+    height: 100vh;
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -74,7 +74,7 @@
 /* End of section Two */
 /* Start of section Three */
 .sectionthree{
-    height: 120vh;
+    height: 150vh;
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -209,7 +209,7 @@
 /* End Of section three */
 /* Start Of section Four */
 .sectionfour{
-    height: 80vh;
+    height: 100vh;
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -323,7 +323,7 @@
 
 /* Start of section Five */
 .sectionfive{
-    height: 70vh;
+    height: 100vh;
     width: 100%;
     display: flex;
     align-items: center;
@@ -485,7 +485,7 @@
 /* End Of Section Five*/
 /* Start Of Section Six */
 .sectionsix{
-    height: 75vh;
+    height: 80vh;
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -584,7 +584,7 @@
 
 /* End Of Section Seven */
 .sectionseven{
-    height: 50vh;
+    height: 60vh;
     width: 100%;
     display: flex;
     flex-direction: column;
