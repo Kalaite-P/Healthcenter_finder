@@ -17,7 +17,7 @@ Various people participated in the designing and writing of this project. They a
 1. [Daniel Mutunga](https://github.com/DanielMutunga)
 2. [Peninah Kalaite](https://github.com/Kalaite-P)
 3. [Erick Gikonyo](https://github.com/ErickGikonyo)
-4. MIGUEL
+4. [Miguel Chombo](https://github.com/miguel845)
 
 ## Tools
 
