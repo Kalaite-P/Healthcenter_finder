@@ -38,6 +38,40 @@
 }
 /* tygfuh */
 
+.sectiontwo{
+    height: 70vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: left;
+    background-color: white;
+}
+.sectiontwo h1{
+    color: blue;
+    font-size: 32px;
+    margin-bottom: 20px;
+}
+.sectiontwo .intro{
+    color: black;
+    font-weight: 500;
+    margin-bottom: 10px;
+}
+.sectiontwo p{
+    text-align: center;
+    margin-bottom: 10px;
+    font-family: monospace;
+    font-size: 18px;
+}
+.sectiontwo button{
+    border: solid 2px blue;
+    padding: 10px 10px;
+    cursor: pointer;
+    border-radius: 15px;
+    background-color: transparent;
+}
+/* End of section Two */
 /* Start of section Three */
 .sectionthree{
     height: 120vh;
