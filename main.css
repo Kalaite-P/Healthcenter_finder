@@ -101,7 +101,7 @@
 }
 /* End Of section One */
 
-
+/* Start Of Section Two */
 .sectiontwo{
     height: 100vh;
     width: 100%;
@@ -125,7 +125,8 @@
 .sectiontwo p{
     text-align: center;
     margin-bottom: 10px;
-    font-size: 18px;
+    font-size: 20px;
+    font-weight: 500;
 }
 .sectiontwo button{
     border: solid 2px blue;
@@ -624,7 +625,7 @@
     height: 250px;
     width: 300px;
 }
-.imgs h1{
+.imgs h4{
     color: #106BF2;
     margin-top: 10px;
 }
