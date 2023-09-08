@@ -21,7 +21,7 @@ Various people participated in the designing and writing of this project. They a
 3. [Erick Gikonyo](https://github.com/ErickGikonyo)
 4. [Miguel Chombo](https://github.com/miguel845)
 
-## Tools
+### Tools
 
 The following we're used to create the project:
 
@@ -34,6 +34,25 @@ In order to run this project you require:
 1. Linux / Windows / Macos
 2. 4GB RAM
 
+#### Setup
+
+It will guide and assist to setup and run this operation in your computer / laptop.
+
+1. Clone the repository to your local machine open your `Terminal`(*Linux / Macos) or `GitBash`(*Windows)
+
+   ```
+   git clone https://github.com/Kalaite-P/SelfCareCenter_finder
+   ```
+2. Change into the following directory.
+```
+cd SelfCareCenter_finder
+```
+3. Open in Visual Studio Code.
+   ```
+   code.
+   ```
+4. Run in Brower by opening with `live server`
+   
 ## License
 
 This project is licensed under the terms of the **MIT** license.
