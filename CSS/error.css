@@ -1,0 +1,25 @@
+.action{
+    height: 100vh;
+    width: 100%;
+    background: linear-gradient( #0011E0, #FFF, #FF1FA2);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: red;
+}
+.message{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.action h1{
+    font-size: 35px;
+}
+.action h3{
+    font-size: 30px;
+}
+.action li{
+    font-size: 20px;
+    color: blue;
+}
