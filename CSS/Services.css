@@ -1,0 +1,179 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Noto Serif', serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Quicksand', sans-serif;
+}
+.sectionone{
+    height: 270vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.sectionone .navigation{
+    height: 7%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: blue;
+}
+.navigation .logo{
+    height: 50%;
+    width: 85%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    color: white;
+}
+.Top a{
+    text-decoration: none;
+    padding: 20px;
+    font-size: 18px;
+    color: white;
+}
+.navigation .navlinks{
+    height: 50%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    box-shadow: 0 0 5px black;
+}
+.navlinks .links{
+    height: 100%;
+    width: 60%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+.links a{
+    text-decoration: none;
+    color: blue;
+    font-weight: 600;
+    transition: .2s;
+}
+.links a:hover{
+    color: darkblue;
+    border-bottom: solid 2px darkblue;
+}
+.links button{
+    border: none;
+    background-color: blue;
+    color: white;
+    font-weight: 600;
+    padding: 10px 20px;
+    border-radius: 25px;
+    cursor: pointer;
+}
+.links button:hover{
+    background-color: darkblue;
+}
+.sectionone .maindiv{
+    height: 98%;
+    width: 80%;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;
+    /* background-color: aqua; */
+}
+.sectionone .maindiv{
+    height: 98%;
+    width: 85%;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;
+}
+.maindiv .pharmacy{
+    height: 16%;
+    width: 100%;
+    position: relative;
+}
+.maindiv .lab{
+    height: 16%;
+    width: 100%;
+    position: relative;
+}
+.maindiv .privatedocs{
+    height: 16%;
+    width: 100%;
+    position: relative;
+}
+.maindiv .privatenurses{
+    height: 16%;
+    width: 100%;
+    position: relative;
+}
+.maindiv .hospitals{
+    height: 16%;
+    width: 100%;
+    position: relative;
+}
+.maindiv .providers{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+.maindiv .providers .one{
+    height: 100%;
+    width: 24%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 0 5px #000;
+}
+.maindiv .providers .two{
+    height: 100%;
+    width: 24%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 0 5px #000;
+}
+.maindiv .providers .three{
+    height: 100%;
+    width: 24%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 0 5px #000;
+}
+.maindiv .providers .four{
+    height: 100%;
+    width: 24%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 0 5px #000;
+}
+.maindiv h2{
+    position: absolute;
+    left: 40%;
+    top: -15%;
+}
+.maindiv img{
+    height: 150px;
+    margin-bottom: 5px;
+}
+.providers a{
+    text-decoration: none;
+    background-color: blue;
+    padding: 7px 10px;
+    color: white;
+    margin-top: 5px;
+    border-radius: 5px;
+}
