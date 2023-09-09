@@ -27,6 +27,7 @@ The following we're used to create the project:
 
 1. HTML5
 2. CSS3
+3. JAVASCRIPT
 
 ## Pre requisites
 
