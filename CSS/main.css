@@ -17,7 +17,7 @@
     align-items: center;
     justify-content: center;
     background-color: blue;
-    position: fixed;
+    /* position: fixed; */
 }
 .navigation .logo{
     height: 50%;
