@@ -17,6 +17,7 @@
     align-items: center;
     justify-content: center;
     background-color: blue;
+    position: fixed;
 }
 .navigation .logo{
     height: 50%;
@@ -144,7 +145,8 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    background-color: #FAF7F7;
+    /* background-color: #FAF7F7; */
+    background-color: white;
     position: relative;
 }
 .sectionthree .form{
